@@ -1,2 +1,2 @@
 # WinnowKAN
-Paper for WinnowKAN
+For paper of WinnowKAN
