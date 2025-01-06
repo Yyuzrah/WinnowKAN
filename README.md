@@ -1,0 +1,2 @@
+# WinnowKAN
+Paper for WinnowKAN
