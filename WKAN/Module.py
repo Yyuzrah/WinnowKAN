@@ -52,7 +52,7 @@ else:
     device = torch.device("cpu")
     print("CUDA is not available. Using CPU.")
 
-
+# "KANLinear" uses code from [efficient-kan](https://github.com/Blealtan/efficient-kan).
 class KANLinear(torch.nn.Module):
     def __init__(
         self,
