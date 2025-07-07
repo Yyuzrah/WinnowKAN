@@ -1,0 +1,8 @@
+tqdm==4.66.2
+torch==2.2.2+cu121
+scipy==1.13.0
+pandas==2.2.2
+numpy==1.24.4
+scanpy==1.10.1
+matplotlib==3.6.2
+anndata==0.10.7
