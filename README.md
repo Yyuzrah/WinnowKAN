@@ -1,5 +1,5 @@
 # WinnowKAN
-
+![image](https://github.com/Yyuzrah/WinnowKAN/blob/main/doc/WKAN01.jpg)
 # Winnow-KAN: Single-Cell RNA-seq Location Recovery with Small-Gene-Set Spatial Transcriptomics 
 
 This repo is for paper of Winnow-KAN.
