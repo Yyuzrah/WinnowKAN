@@ -12,8 +12,20 @@ The core of our method is to extract the weights of each nonlinear part in the K
 
 Python (>3.8) support packages: torch>=1.8, pandas>=1.4, numpy>=1.20, scipy, tqdm, scanpy>=1.5, anndata, sklearn, scikit-image
 
+# Installation
+
+```
+git clone git@github.com/Yyuzrah/WinnowKAN.git
+cd WinnowKAN
+pip install -r requirements.txt
+```
+
 # Usage
-To use Winnow-KAN, follow these steps:
+```
+from WKAN import *
+```
+
+Then follow these steps:
 
 1. Import and standardize spatial transcriptomics data from diverse formats for downstream processing.
 
