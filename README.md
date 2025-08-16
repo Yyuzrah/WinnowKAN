@@ -35,4 +35,22 @@ Then follow these steps:
 
 4. Produce artificial spatial transcriptomic datasets for validation or further experimentation.
 
+# Cite
+```
+@article{Zhang2025,
+  author = {Zhang, Yuyang and Zhang, Qihuang},
+  title = {Winnow-KAN: single-cell RNA-seq location recovery with small-gene-set spatial transcriptomics},
+  journal = {BMC Bioinformatics},
+  volume = {26},
+  number = {1},
+  pages = {209},
+  year = {2025},
+  month = aug,
+  day = {12},
+  doi = {10.1186/s12859-025-06243-9},
+  url = {https://doi.org/10.1186/s12859-025-06243-9},
+  issn = {1471-2105},
+  note = {Received: 09 February 2025; Accepted: 29 July 2025; Published: 12 August 2025}
+}
+```
 
